@@ -1,0 +1,13 @@
+{
+  "name": "kundensmand.dk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jesper@yepz.dk",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "eleventy-plugin-error-overlay": "^1.0.0",
+    "html-minifier": "^4.0.0"
+  }
+}
