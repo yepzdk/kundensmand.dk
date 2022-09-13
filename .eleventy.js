@@ -26,5 +26,6 @@ module.exports = (eleventyConfig) => {
       output: "public_html",
       includes: "_includes",
     },
+    pathPrefix: "/kundensmand.dk/",
   };
 };
