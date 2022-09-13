@@ -3,6 +3,7 @@ layout: base.njk
 
 eleventyNavigation:
   key: Forside
+  order: 1
 
 title: Forside | Kundensmand.dk – IT Support og Konsulent ydelser i Randers og omegn
 ---

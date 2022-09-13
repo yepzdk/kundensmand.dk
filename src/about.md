@@ -3,6 +3,7 @@ layout: base.njk
 
 eleventyNavigation:
   key: Om Os
+  order: 4
 
 title: Om Os | Kundensmand.dk – IT Support og Konsulent ydelser i Randers og omegn
 ---

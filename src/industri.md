@@ -3,6 +3,7 @@ layout: base.njk
 
 eleventyNavigation:
   key: Industri
+  order: 3
 
 title: Industri | Kundensmand.dk – IT Support og Konsulent ydelser i Randers og omegn
 ---

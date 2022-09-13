@@ -3,6 +3,7 @@ layout: base.njk
 
 eleventyNavigation:
   key: Kompetencer
+  order: 2
 
 title: Kompetencer | Kundensmand.dk – IT Support og Konsulent ydelser i Randers og omegn
 ---
